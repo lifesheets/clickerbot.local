@@ -17,7 +17,7 @@ async function main() {
                         [
                             {
                                 text: 'Грати',
-                                web_app: { url: 'https://dev-clicker.local' }
+                                web_app: { url: 'https://clickerbot.local' }
                             }
                         ]
                     ]
